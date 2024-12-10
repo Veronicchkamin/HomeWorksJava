@@ -1,3 +1,5 @@
+// Max,mim,sum, amount
+
 package Homeworks;
 
 public class MainApp {
